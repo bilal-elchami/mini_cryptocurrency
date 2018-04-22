@@ -1,0 +1,35 @@
+[
+   {
+      "TX":{
+         "TXI":[
+            {
+               "nBloc":"1",
+               "nTx":"3",
+               "nUTXO":"2",
+               "signature":"az1"
+            }
+         ],
+         "UTXO":[
+            {
+               "cle_publique":"az1",
+               "hash":"az1",
+               "montant":"100",
+               "nBloc":"1",
+               "nTx":"3",
+               "nUTXO":"2"
+            }
+         ]
+      },
+      "TXM":{
+         "cle_publique":"az1",
+         "hash":"az1",
+         "montant":"5",
+         "nBloc":"1",
+         "nUTXO":"2"
+      },
+      "hash":"azfdghsdffgfdgbsfdhsd1",
+      "nonce":"0",
+      "num":"1",
+      "previous_hash":"az2"
+   }
+]

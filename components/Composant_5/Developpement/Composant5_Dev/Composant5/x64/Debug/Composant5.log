@@ -1,0 +1,8 @@
+﻿  Composant5.cpp
+c:\z_programmation_par_composants\composant_5\composant_5\developpement\composant5_dev\composant5\composant5.cpp(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\z_programmation_par_composants\composant_5\composant_5\developpement\composant5_dev\composant5\composant5.cpp(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+     Creating library C:\Z_Programmation_par_composants\Composant_5\Composant_5\Developpement\Composant5_Dev\x64\Debug\Composant5.lib and object C:\Z_Programmation_par_composants\Composant_5\Composant_5\Developpement\Composant5_Dev\x64\Debug\Composant5.exp
+  Composant5.vcxproj -> C:\Z_Programmation_par_composants\Composant_5\Composant_5\Developpement\Composant5_Dev\x64\Debug\Composant5.dll
+  Composant5.vcxproj -> C:\Z_Programmation_par_composants\Composant_5\Composant_5\Developpement\Composant5_Dev\x64\Debug\Composant5.pdb (Full PDB)

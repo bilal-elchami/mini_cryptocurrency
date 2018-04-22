@@ -1,0 +1,2 @@
+﻿  Mineur.cpp
+c:\users\admin\desktop\cours dauphine 2018\projet mineur\mineur\mineur\mineur.cpp(72): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?

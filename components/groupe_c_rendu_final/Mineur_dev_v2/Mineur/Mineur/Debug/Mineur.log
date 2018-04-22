@@ -1,0 +1,12 @@
+﻿  Mineur.cpp
+c:\users\bayefl13\desktop\mineur\mineur\mineur.cpp(31): warning C4273: 'Mineur::Mineur' : liaison DLL incohérente
+  c:\users\bayefl13\desktop\mineur\mineur\mineur.h(36): note: voir la définition précédente de '{ctor}'
+c:\users\bayefl13\desktop\mineur\mineur\mineur.cpp(40): warning C4273: 'Mineur::transform' : liaison DLL incohérente
+  c:\users\bayefl13\desktop\mineur\mineur\mineur.h(42): note: voir la définition précédente de 'transform'
+c:\users\bayefl13\desktop\mineur\mineur\mineur.cpp(68): warning C4273: 'Mineur::getM_bloc' : liaison DLL incohérente
+  c:\users\bayefl13\desktop\mineur\mineur\mineur.h(47): note: voir la définition précédente de 'getM_bloc'
+     Création de la bibliothèque C:\Users\bayefl13\Desktop\Mineur\Debug\Mineur.lib et de l'objet C:\Users\bayefl13\Desktop\Mineur\Debug\Mineur.exp
+Mineur.obj : error LNK2019: symbole externe non résolu "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Bloc::ToString(void)" (?ToString@Bloc@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) référencé dans la fonction "public: bool __thiscall Mineur::transform(void)" (?transform@Mineur@@QAE_NXZ)
+Mineur.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: __thiscall Hacheur::Hacheur(void)" (__imp_??0Hacheur@@QAE@XZ) référencé dans la fonction "public: bool __thiscall Mineur::transform(void)" (?transform@Mineur@@QAE_NXZ)
+Mineur.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Hacheur::hacher(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (__imp_?hacher@Hacheur@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V23@@Z) référencé dans la fonction "public: bool __thiscall Mineur::transform(void)" (?transform@Mineur@@QAE_NXZ)
+C:\Users\bayefl13\Desktop\Mineur\Debug\Mineur.dll : fatal error LNK1120: 3 externes non résolus

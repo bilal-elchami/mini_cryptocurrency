@@ -1,0 +1,7 @@
+﻿  Wallet.cpp
+c:\users\administrator\documents\visual studio 2015\projects\compoproject\compoproject\wallet.cpp(206): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Test_Wallet.cpp
+c:\users\administrator\documents\visual studio 2015\projects\compoproject\compoproject\test_wallet.cpp(86): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  FileInterfaceAPI.cpp
+c:\users\administrator\documents\visual studio 2015\projects\compoproject\compoproject\fileinterfaceapi.cpp(8): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...

@@ -1,0 +1,4 @@
+﻿  FileInterface.cpp
+c:\users\bayefl13\desktop\mineur_dev\interfaces\json.hpp(485): error C2100: indirection non conforme
+  c:\users\bayefl13\desktop\mineur_dev\interfaces\json.hpp(1226): note: voir la référence à l'instanciation de la classe modèle 'nlohmann::detail::static_const<nlohmann::detail::from_json_fn>' en cours de compilation
+c:\users\bayefl13\desktop\mineur_dev\composant1\fileinterface.h(21): warning C4251: 'FileInterface::fichier' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'FileInterface'
