@@ -1,6 +1,0 @@
-﻿  FileInterface.cpp
-c:\z_programmation_par_composants\composant_5\composant_5\developpement\composant5_dev\composant1\fileinterface.h(21): warning C4251: 'FileInterface::fichier': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'FileInterface'
-  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2633): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
-     Creating library C:\Z_Programmation_par_composants\Composant_5\Composant_5\Developpement\Composant5_Dev\x64\Debug\Composant1.lib and object C:\Z_Programmation_par_composants\Composant_5\Composant_5\Developpement\Composant5_Dev\x64\Debug\Composant1.exp
-  Composant1.vcxproj -> C:\Z_Programmation_par_composants\Composant_5\Composant_5\Developpement\Composant5_Dev\x64\Debug\Composant1.dll
-  Composant1.vcxproj -> C:\Z_Programmation_par_composants\Composant_5\Composant_5\Developpement\Composant5_Dev\x64\Debug\Composant1.pdb (Partial PDB)

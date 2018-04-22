@@ -1,5 +1,0 @@
-﻿  Hacheur.cpp
-c:\users\mkharraz\desktop\dev\composant4\composant4\hacheur.cpp(14): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
-     Creating library C:\Users\mkharraz\Desktop\dev\Composant4\x64\Debug\Composant4.lib and object C:\Users\mkharraz\Desktop\dev\Composant4\x64\Debug\Composant4.exp
-  Composant4.vcxproj -> C:\Users\mkharraz\Desktop\dev\Composant4\x64\Debug\Composant4.dll
-  Composant4.vcxproj -> C:\Users\mkharraz\Desktop\dev\Composant4\x64\Debug\Composant4.pdb (Full PDB)
