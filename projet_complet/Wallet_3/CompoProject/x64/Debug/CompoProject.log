@@ -1,4 +1,5 @@
-﻿  stdafx.cpp
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : The process cannot access the file 'd:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\x64\debug\compoproject.pch' because it is being used by another process.
+  stdafx.cpp
   Wallet.cpp
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\json.h(6683): warning C4003: not enough actual parameters for macro 'max'
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\json.h(6689): warning C4003: not enough actual parameters for macro 'max'
@@ -23,43 +24,14 @@ d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\json.h(6965): warning C4003: not enough actual parameters for macro 'max'
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\json.h(6971): warning C4003: not enough actual parameters for macro 'max'
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\json.h(7184): warning C4003: not enough actual parameters for macro 'max'
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.h(108): error C3646: 'signature': unknown override specifier
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.h(108): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.h(109): error C3646: 'hasheur': unknown override specifier
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.h(109): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(35): error C2065: 'hasheur': undeclared identifier
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(35): error C2228: left of '.hacher' must have class/struct/union
-  d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(35): note: type is 'unknown-type'
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(36): error C2065: 'signature': undeclared identifier
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(36): error C2228: left of '.signMessage' must have class/struct/union
-  d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(36): note: type is 'unknown-type'
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(43): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(58): error C2065: 'hasheur': undeclared identifier
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(58): error C2228: left of '.hacher' must have class/struct/union
-  d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(58): note: type is 'unknown-type'
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(67): error C2065: 'hasheur': undeclared identifier
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(67): error C2228: left of '.hacher' must have class/struct/union
-  d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(67): note: type is 'unknown-type'
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(80): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(86): error C2065: 'hasheur': undeclared identifier
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(88): error C2065: 'hasheur': undeclared identifier
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(88): error C2228: left of '.hacher' must have class/struct/union
-  d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(88): note: type is 'unknown-type'
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(89): error C2065: 'signature': undeclared identifier
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(89): error C2228: left of '.signMessage' must have class/struct/union
-  d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(89): note: type is 'unknown-type'
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(96): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(106): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(109): error C2065: 'hasheur': undeclared identifier
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(109): error C2228: left of '.hacher' must have class/struct/union
-  d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(109): note: type is 'unknown-type'
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(118): error C2065: 'hasheur': undeclared identifier
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(118): error C2228: left of '.hacher' must have class/struct/union
-  d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(118): note: type is 'unknown-type'
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(169): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(174): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.cpp(182): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
@@ -88,8 +60,7 @@ d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\json.h(6965): warning C4003: not enough actual parameters for macro 'max'
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\json.h(6971): warning C4003: not enough actual parameters for macro 'max'
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\json.h(7184): warning C4003: not enough actual parameters for macro 'max'
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.h(108): error C3646: 'signature': unknown override specifier
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.h(108): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.h(109): error C3646: 'hasheur': unknown override specifier
-d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\wallet_3\compoproject\wallet.h(109): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
   Generating Code...
+  dllmain.cpp
+  CompoProject.vcxproj -> D:\_Masters\Master 2\Projet composants\Final Project\mini_cryptocurrency\projet_complet\x64\Debug\CompoProject.exe
+  CompoProject.vcxproj -> D:\_Masters\Master 2\Projet composants\Final Project\mini_cryptocurrency\projet_complet\x64\Debug\CompoProject.pdb (Full PDB)

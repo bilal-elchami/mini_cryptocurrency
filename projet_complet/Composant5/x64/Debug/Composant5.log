@@ -1,8 +1,10 @@
-﻿  Composant5.cpp
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : The process cannot access the file 'd:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\x64\debug\composant5.ilk' because it is being used by another process.
+  Composant5.cpp
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\composant5\composant5.cpp(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\composant5\composant5.cpp(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  LINK : D:\_Masters\Master 2\Projet composants\Final Project\mini_cryptocurrency\projet_complet\x64\Debug\Composant5.dll not found or not built by the last incremental link; performing full link
      Creating library D:\_Masters\Master 2\Projet composants\Final Project\mini_cryptocurrency\projet_complet\x64\Debug\Composant5.lib and object D:\_Masters\Master 2\Projet composants\Final Project\mini_cryptocurrency\projet_complet\x64\Debug\Composant5.exp
   Composant5.vcxproj -> D:\_Masters\Master 2\Projet composants\Final Project\mini_cryptocurrency\projet_complet\x64\Debug\Composant5.dll
   Composant5.vcxproj -> D:\_Masters\Master 2\Projet composants\Final Project\mini_cryptocurrency\projet_complet\x64\Debug\Composant5.pdb (Full PDB)
