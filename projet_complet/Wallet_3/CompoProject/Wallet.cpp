@@ -1,7 +1,7 @@
 #include "Bloc.h"
 #include "stdafx.h"
 #include "Wallet.h"
-
+#include "Hacheur.h"
 
 using namespace std;
 

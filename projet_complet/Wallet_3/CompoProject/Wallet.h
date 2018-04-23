@@ -6,9 +6,6 @@
 #include <sstream>
 #include "Bloc.h"
 #include "Json.h"
-#include "Signature.h"
-#include "Hacheur.h"
-
 
 using json = nlohmann::json;
 

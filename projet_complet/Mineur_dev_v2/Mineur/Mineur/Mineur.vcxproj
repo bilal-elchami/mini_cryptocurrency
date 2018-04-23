@@ -84,10 +84,11 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>$(SolutionDir)Composant1;$(SolutionDir)Composant5;$(SolutionDir)interfaces;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)Composant4\Composant4;$(SolutionDir)composant_signature\Composant_Signature\x64\Debug;$(SolutionDir)Composant1;$(SolutionDir)includes;$(SolutionDir)Composant1;$(SolutionDir)Composant5;$(SolutionDir)interfaces;%(AdditionalIncludeDirectories);$(SolutionDir)includes;</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
-      <AdditionalLibraryDirectories>$(SolutionDir)lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(SolutionDir)composant_signature\Composant_Signature\lib;$(SolutionDir)composant_signature\Composant_Signature\x64\Debug;$(SolutionDir)lib;%(AdditionalLibraryDirectories);$(SolutionDir)Composant4\Composant4\x64\Debug;$(SolutionDir)Composant4\Composant4\x64\Debug;</AdditionalLibraryDirectories>
+      <AdditionalDependencies>Composant_Signature.lib;Composant4.lib;Composant4.lib;$(SolutionDir)Composant4\x64\Debug;$(SolutionDir)Composant4\Composant4\x64\Debug</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -110,10 +111,13 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>$(SolutionDir)Composant4\Composant4;$(SolutionDir)composant_signature\Composant_Signature\x64\Debug;$(SolutionDir)Composant1;$(SolutionDir)includes;;$(SolutionDir)includes;</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>Composant_Signature.lib;Composant4.lib;Composant4.libkernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies);$(SolutionDir)Composant4\x64\Debug;$(SolutionDir)Composant4\Composant4\x64\Debug</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(SolutionDir)composant_signature\Composant_Signature\lib;$(SolutionDir)composant_signature\Composant_Signature\x64\Debug;;$(SolutionDir)Composant4\Composant4\x64\Debug;$(SolutionDir)Composant4\Composant4\x64\Debug;</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
