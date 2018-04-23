@@ -5,4 +5,6 @@ d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_
   d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\mineur_dev_v2\mineur\mineur\mineur.h(42): note: see previous definition of 'transform'
 d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\mineur_dev_v2\mineur\mineur\mineur.cpp(68): warning C4273: 'Mineur::getM_bloc': inconsistent dll linkage
   d:\_masters\master 2\projet composants\final project\mini_cryptocurrency\projet_complet\mineur_dev_v2\mineur\mineur\mineur.h(47): note: see previous definition of 'getM_bloc'
-LINK : fatal error LNK1104: cannot open file 'D:\_Masters\Master 2\Projet composants\Final Project\mini_cryptocurrency\projet_complet\Composant4\x64\Debug.obj'
+     Creating library D:\_Masters\Master 2\Projet composants\Final Project\mini_cryptocurrency\projet_complet\x64\Debug\Mineur.lib and object D:\_Masters\Master 2\Projet composants\Final Project\mini_cryptocurrency\projet_complet\x64\Debug\Mineur.exp
+  Mineur.vcxproj -> D:\_Masters\Master 2\Projet composants\Final Project\mini_cryptocurrency\projet_complet\x64\Debug\Mineur.dll
+  Mineur.vcxproj -> D:\_Masters\Master 2\Projet composants\Final Project\mini_cryptocurrency\projet_complet\x64\Debug\Mineur.pdb (Partial PDB)
