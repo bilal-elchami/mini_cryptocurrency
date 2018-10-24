@@ -1,4 +1,4 @@
-# Mini Cryptocurrency - Group B
+# Mini Cryptocurrency
 
 ## Liens github de tous les composants :
 Composant 1 (fichier) : https://github.com/lifakpo/Composant_1
